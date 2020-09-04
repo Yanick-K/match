@@ -7,7 +7,7 @@
     "ejs": "~2.1.4",
     "cookie-session": "~1.1.0",
     "body-parser": "~1.10.1",
-    "mongodb": "~2.2.24",
+    "mongodb": "~3.6.1",
     "serve-favicon": "~2.3.0",
     "validator": "~6.2.1",
     "nodemailer": "~3.1.4",
